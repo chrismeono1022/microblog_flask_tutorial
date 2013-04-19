@@ -1,0 +1,12 @@
+# Required
+flask
+flask-login
+flask-openid
+flask-mail
+flask-sqlalchemy==0.7.9
+sqlalchemy-migrate
+flask-whooshalchemy
+flask-wtf
+flask-babel
+flup
+sqlite
